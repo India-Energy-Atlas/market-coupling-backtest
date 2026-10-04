@@ -1,0 +1,5 @@
+services:
+  backtest:
+    build: .
+    volumes:
+      - ./out:/out

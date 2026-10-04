@@ -1,0 +1,13 @@
+market-coupling-backtest
+Copyright 2026 India Energy Atlas (energymap.in)
+
+This product includes software developed at India Energy Atlas
+(https://www.energymap.in/).
+
+The files in data/ reproduce public market data, with attribution:
+  - Indian Energy Exchange (IEX): Day-Ahead Market snapshot (All India,
+    per 15-minute block) and area clearing prices for its 13 bid areas.
+  - Central Electricity Regulatory Commission (CERC), Market Monitoring
+    Cell monthly reports: IEX, PXIL and HPX daily volume and price. Each
+    row of data/exchange_daily.csv carries the URL of its report.
+They are not covered by the Apache License; their publishers' terms apply.
